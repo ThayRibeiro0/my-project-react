@@ -1,6 +1,5 @@
 
-
-// function Person(props) {
+// function Person(props) { -> example use the props or him more clean
 function Person({ name, age, work, photo }) {
     return (
         <div>
