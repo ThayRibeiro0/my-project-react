@@ -3,6 +3,7 @@ import './App.css';
 import SayMyName from './components/SayMyName';
 import Person from './components/Person';
 import Phase from './components/Phase';
+import List from './components/List'
 
 // import all the components to use it, for works the app, all them need to be here
 
@@ -28,6 +29,7 @@ function App() {
         work="programmer" 
         photo="https://via.placeholder.com/150" 
         />
+        <List />
     </div>
   )
 }
