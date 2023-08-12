@@ -1,5 +1,3 @@
-
-
 function Phase() {
     return (
         <div>
