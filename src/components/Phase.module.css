@@ -1,0 +1,10 @@
+.phaseContainer {
+    background-color: #333;
+    border: 1px solid #111 ;
+}
+
+.phaseContent{
+    color: #fff;
+    background-color: #333;
+    margin: 0;
+}

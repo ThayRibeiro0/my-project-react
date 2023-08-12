@@ -3,6 +3,7 @@ import './App.css';
 import HelloWorld from './components/HelloWorld';
 import SayMyName from './components/SayMyName';
 import Person from './components/Person';
+import Phase from './components/Phase';
 
 function App() {
   const name = "Maria"
@@ -16,6 +17,10 @@ function App() {
   return (
     <div className="App"> 
 
+      <h1>Testando CSS</h1>
+      <Phase/>
+      <Phase/>
+      
       {/* <h2>Editing the JSX</h2>
       <p>Hi, {name}</p> 
       <p>Hi, {newName}</p>
