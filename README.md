@@ -4,6 +4,12 @@
 
 Learning how works the React library, complement the studies with Codecademy.
 
+## Installation
+
+### `npm install`
+### `npm install -g npm@10.2.0 `
+### `npm start`
+
 <p align="center">
   <img src="https://img.shields.io/github/downloads/ThayRibeiro0/project0.2/total?color=%2300ff00&logo=Github&style=plastic" />
   <img src="https://img.shields.io/github/repo-size/ThayRibeiro0/project0.2?style=plastic" />
